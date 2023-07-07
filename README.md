@@ -9,7 +9,7 @@ I've been working in front-end developer roadmap past 4 years during this journe
 * 🌍  I'm based in Dhaka
 * ✉️  You can contact me at [joytheahmed@gmail.com](mailto:joytheahmed@gmail.com)
 * 🧠  I'm learning Javascript
-* 🤝  I'm open to collaborating on Full Stack projects
+* 🤝  I'm open to collaborating on both Frontend and Full Stack projects
 
 ### Skills
 

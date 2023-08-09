@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Javascript and ReactJS Developer
 -------------------------------------------
 
-I've been working in front-end developer roadmap past 4 years during this journey 🚀 I've discovered a lot, but am still hungry for learning as new technologies are appearing faster than I sleep and wake up. Now my goal is to be a master in back-end development as well as to join an active and creative team where I can show up the little knowledge that I got past 4 years, trust me it's gonna be fun to work with me.🤘
+I've been working in frontend developer field past 3 years during this journey 🚀 I've discovered a lot, but am still hungry for learning as new technologies are appearing faster than I sleep and wake up. Now my goal is to be a master in back-end development as well as to join an active and creative team where I can show up the little knowledge that I got past 4 years, trust me it's gonna be fun to work with me.🤘
 
 * 🌍  I'm based in Dhaka
 * ✉️  You can contact me at [joytheahmed@gmail.com](mailto:joytheahmed@gmail.com)

@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Joy Ahmed
 =================================================================================================================================
 
-Full Stack Javascript and ReactJS Developer 
+Full Stack Javascript and ReactJS Developer.
 -------------------------------------------
 
 I've been working as a frontend developer for the past 3 years during this journey 🚀 I've discovered a lot, but am still hungry for learning as new technologies are appearing faster than I sleep and wake up. Now my goal is to be a master in back-end development as well as to join an active and creative team where I can show up the little knowledge that I got past 4 years.🤘

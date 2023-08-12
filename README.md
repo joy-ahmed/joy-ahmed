@@ -11,7 +11,7 @@ I've been working as a frontend developer for the past 3 years during this journ
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on both Frontend and Full Stack projects
 
-### Skills
+### My Skills
 
 
 <p align="left">

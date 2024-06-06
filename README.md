@@ -14,6 +14,11 @@ I've been working as a frontend developer for the past 3 years during this journ
 * 🤝  I'm open to collaborating on Saas, Open source or any creative team
 * ⚡  Shuhhh!🤫 I'm secretly a singer don't tell anyone😉
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joy-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="joy-ahmed" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joy-ahmed" alt="joy-ahmed" /></a> </p>
+
+
 ### Skills
 
 

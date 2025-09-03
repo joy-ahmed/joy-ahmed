@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a scalable web application using React and Node.js<br>👯 I’m looking to collaborate on open-source projects related to full-stack development or innovative SaaS platforms<br>🤝 I’m looking for help with optimizing database queries for large-scale systems<br>🌱 I’m currently learning advanced TypeScript patterns and DevOps tools like Kubernetes<br>💬 Ask me about JavaScript frameworks, RESTful APIs, and cloud deployments<br>⚡ Fun fact I accidentally pushed a console.log('hello world') to production and PM said it was awesome!
+🔭 I’m currently working on building a scalable web application using React and Node.js<br>👯 I’m looking to collaborate on open-source projects related to full-stack development or innovative SaaS platforms<br>🤝 I’m looking for help with optimizing database queries for large-scale systems<br>🌱 I’m currently learning advanced TypeScript patterns and DevOps tools like Kubernetes<br>💬 Ask me about JavaScript frameworks, RESTful APIs, and cloud deployments<br>⚡ Fun fact I accidentally pushed .env to production and PM said it was awesome!
 
 
 # 💻 Tech Stack:
